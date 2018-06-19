@@ -14,5 +14,13 @@ Hui Li, Xiao-Jnu Wu
 ![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/soft_max.png)
 
 
-## Experiment
+## Experimental results
 ![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/results.png)
+
+## Requirements
+You will need the following tools to run this codes:
+- [MatConvNet](http://www.vlfeat.org/matconvnet/)
+- [ResNet-50](http://www.vlfeat.org/matconvnet/pretrained/)
+
+
+If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
