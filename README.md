@@ -12,3 +12,7 @@ Hui Li, Xiao-Jnu Wu
 
 ## Resize and soft-max opeartions
 ![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/soft_max.png)
+
+
+## Experiment
+![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/results.png)
