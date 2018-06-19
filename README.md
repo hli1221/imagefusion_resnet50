@@ -24,3 +24,16 @@ You will need the following tools to run this codes:
 
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
+
+# Citation
+If you use this code
+```
+@misc{li2018IVimagefusion_resnet50,
+    author = {Hui Li},
+    title = {CODE: Infrared and Visible Image Fusion with ResNet and zero-phase component analysis},
+    year = {2018},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/exceptionLi/imagefusion_resnet50}}
+  }
+```
