@@ -1,5 +1,6 @@
 # Infrared and Visible Image Fusion with ResNet and zero-phase component analysis
-Hui Li, Xiao-Jnu Wu
+
+Li H, Wu X J. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis[J]. arXiv preprint arXiv:1806.07119, 2018.
 
 ## Fusion method
 ![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/framework.png)
