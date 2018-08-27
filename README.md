@@ -1,5 +1,7 @@
 # Infrared and Visible Image Fusion with ResNet and zero-phase component analysis
 
+Submitted to Information Fusion.
+
 Li H, Wu X J, Durrani S. Tariq. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis[J]. arXiv preprint arXiv:1806.07119, 2018.
 (https://arxiv.org/abs/1806.07119)
 
