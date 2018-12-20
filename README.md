@@ -6,20 +6,20 @@ Li H, Wu X J, Durrani S. Tariq. Infrared and Visible Image Fusion with ResNet an
 (https://arxiv.org/abs/1806.07119)
 
 ## Fusion method
-![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/framework.png)
+![](https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/framework.png)
 
 ## The effect of ZCA operation
-![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/zca_operation.png)
+![](https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/zca_operation.png)
 
 ## ZCA and L1-norm operations
-![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/zca_l1norm.png)
+![](https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/zca_l1norm.png)
 
 ## Resize and soft-max opeartions
-![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/soft_max.png)
+![](https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/soft_max.png)
 
 
 ## Experimental results
-![](https://github.com/exceptionLi/imagefusion_resnet50/blob/master/figures/results.png)
+![](https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/results.png)
 
 ## Requirements
 You will need the following tools to run this codes:
@@ -38,6 +38,6 @@ If you use this code
     year = {2018},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/exceptionLi/imagefusion_resnet50}}
+    howpublished = {\url{https://github.com/hli1221/imagefusion_resnet50}}
   }
 ```
