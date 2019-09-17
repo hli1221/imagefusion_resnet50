@@ -2,8 +2,9 @@
 
 Journal of Infrared Physics & Technology
 
-Li H, Wu X J, Durrani S. Tariq. Infrared and Visible Image Fusion with ResNet and zero-phase component analysis[J]. arXiv preprint arXiv:1806.07119, 2018.
-(https://arxiv.org/abs/1806.07119)
+Li, H., Wu, X.-J., Durrani, T. S. (2019). Infrared and Visible Image Fusion with ResNet and zero-phase component analysis. Infrared Physics & Technology, In Press, Journal Pre-proof.
+paper (https://www.sciencedirect.com/science/article/pii/S1350449519301525)
+arXiv (https://arxiv.org/abs/1806.07119)
 
 ## Fusion method
 ![](https://github.com/hli1221/imagefusion_resnet50/blob/master/figures/framework.png)
