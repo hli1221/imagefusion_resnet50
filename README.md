@@ -38,8 +38,6 @@ If you use this code
     author = {Hui Li},
     title = {CODE: Infrared and Visible Image Fusion with ResNet and zero-phase component analysis},
     year = {2018},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/hli1221/imagefusion_resnet50}}
+    note = {\url{https://github.com/hli1221/imagefusion_resnet50}}
   }
 ```
