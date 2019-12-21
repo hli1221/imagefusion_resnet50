@@ -32,7 +32,9 @@ You will need the following tools to run this codes:
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
 # Citation
-If you use this code
+
+For codes:
+
 ```
 @misc{li2018IVimagefusion_resnet50,
     author = {Hui Li},
