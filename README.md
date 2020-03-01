@@ -1,8 +1,6 @@
 # Infrared and Visible Image Fusion with ResNet and zero-phase component analysis
 
-Journal of Infrared Physics & Technology
-
-Li, H., Wu, X.-J., Durrani, T. S. (2019). Infrared and Visible Image Fusion with ResNet and zero-phase component analysis. Infrared Physics & Technology, 102(2019) 103039.
+Journal of Infrared Physics & Technology, 2019
 
 - [Infrared Physics & Technology](https://www.sciencedirect.com/science/article/pii/S1350449519301525) 
 - [arXiv](https://arxiv.org/abs/1806.07119)
