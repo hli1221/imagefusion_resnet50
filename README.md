@@ -38,6 +38,7 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
   title={Infrared and Visible Image Fusion with ResNet and zero-phase component analysis},
   author={Li, Hui and Wu, Xiao-Jun and Durrani, Tariq S},
   journal={Infrared Physics \& Technology},
+  volume={102},
   pages={103039},
   year={2019},
   publisher={Elsevier}
