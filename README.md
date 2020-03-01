@@ -33,13 +33,13 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
 
 # Citation
 
-For codes:
-
 ```
-@misc{li2018IVimagefusion_resnet50,
-    author = {Hui Li},
-    title = {CODE: Infrared and Visible Image Fusion with ResNet and zero-phase component analysis},
-    year = {2018},
-    note = {\url{https://github.com/hli1221/imagefusion_resnet50}}
-  }
+@article{li2019infrared,
+  title={Infrared and Visible Image Fusion with ResNet and zero-phase component analysis},
+  author={Li, Hui and Wu, Xiao-Jun and Durrani, Tariq S},
+  journal={Infrared Physics \& Technology},
+  pages={103039},
+  year={2019},
+  publisher={Elsevier}
+}
 ```
