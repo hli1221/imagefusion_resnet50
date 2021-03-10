@@ -1,5 +1,6 @@
 # Infrared and Visible Image Fusion with ResNet and zero-phase component analysis
 
+[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*, Tariq S. Durrani  
 Journal of Infrared Physics & Technology, 2019
 
 - [Infrared Physics & Technology](https://www.sciencedirect.com/science/article/pii/S1350449519301525) 
